@@ -4,6 +4,9 @@ A local GraphRAG (Graph Retrieval-Augmented Generation) application that generat
 
 ## Overview
 
+![overview](screenshots/demo_overview.png)
+![graph](screenshots/demo_graph.png)
+
 This project demonstrates a full-stack ML application architecture:
 1.  **Knowledge Graph**: Constructs a directed graph of entities using NetworkX.
 2.  **Pathfinding**: Algorithms traverse the graph to find connections between user inputs (e.g., "Toaster") and target nodes (e.g., "The Matrix").
